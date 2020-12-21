@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on Bitcoin Prediction
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Youtube
-- 🤔 I’m looking for help with Big Data
+- 🤔 I’m looking for help with Big Data and AWS
 - 💬 Ask me about Machine Learning
-- 📫 How to reach me: [Instagram - @pratikmehta02](https://www.instagram.com/pratikmehta02)
+- 📫 How to reach me: [Instagram - @pratikmehta02](https://www.instagram.com/pratikmehta02) , [Youtube - @DARKLORD GAMING](https://www.youtube.com/DARKLORD GAMING)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm a gamer and a photographer
 
