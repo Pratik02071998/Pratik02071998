@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Big Data and AWS
 - 💬 Ask me about Machine Learning
-- 📫 How to reach me: [Instagram - @pratikmehta02](https://www.instagram.com/pratikmehta02) , [Youtube - @DARKLORD GAMING](https://www.youtube.com/DARKLORD GAMING)
+- 📫 How to reach me: [Instagram - @pratikmehta02](https://www.instagram.com/pratikmehta02) , [Youtube - @DARKLORD GAMING](https://www.youtube.com/channel/UCEiavVC3R46exv15m6DPvTQ)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm a gamer and a photographer
 
