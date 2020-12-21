@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Big Data
 - 💬 Ask me about Machine Learning
-- 📫 How to reach me: pratikmehta123@outlook.com
+- 📫 How to reach me: Instagram - @pratikmehta02
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm a gamer
 
