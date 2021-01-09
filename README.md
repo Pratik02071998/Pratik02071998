@@ -1,7 +1,7 @@
 ### Hi there , I'm Pratik Mehta 👋
 
 - 🔭 I’m currently working on Bitcoin Prediction
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning , full stack React.js developer, JavaScript and node.js
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Big Data and AWS
 - 💬 Ask me about Machine Learning
